@@ -1,6 +1,6 @@
 # Third-party notices
 
-The syntax palette in this theme is derived from Microsoft's VS Code built-in Default High Contrast theme:
+The syntax palette in this theme is derived from Microsoft's VS Code built-in Default High Contrast theme: 
 https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/hc_black.json
 
 VS Code source is licensed under the MIT License, with this notice preserved:
