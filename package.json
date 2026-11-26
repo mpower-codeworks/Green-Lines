@@ -1,0 +1,40 @@
+  {
+  "name": "green-lines",
+  "displayName": "Green Lines for VS Code",
+  "description": "Green Lines: a near-black high-contrast color theme with crisp green accents.",
+  "version": "0.1.0",
+  "publisher": "mpower-codeworks",
+  "icon": "icon.png",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mpower-codeworks/Green-Lines.git"
+  },
+  "homepage": "https://github.com/mpower-codeworks/Green-Lines",
+  "galleryBanner": {
+    "color": "#040408",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "high contrast",
+    "dark",
+    "green",
+    "lines"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green Lines",
+        "uiTheme": "hc-black",
+        "path": "./themes/green-lines.json"
+      }
+    ]
+  }
+}
