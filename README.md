@@ -1,4 +1,4 @@
-<img src="images/banner.png" width="250" alt="Grey Lines">
+<img src="images/banner.png" width="250" alt="Green Lines">
 
 <!--
 Green Lines is a dark, high-contrast VS Code color theme
